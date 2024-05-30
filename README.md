@@ -1,50 +1,24 @@
 # Awesomeface Predictor
 
-![Awesomeface Predictor](path_to_your_logo_image)
+![Awesomeface Predictor](https://i.imgur.com/ZyICR4t.png)
 
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
-The **Awesomeface Predictor** is a state-of-the-art machine learning application designed to predict and classify facial expressions from images. Utilizing advanced neural network architectures, this tool can accurately determine the emotions displayed in a given image, making it useful for a wide range of applications, from customer service to social media analysis.
+Awesomeface is a simple but effective Bloxflip mines, towers, slide, and crash predictor
 
 ## Features
 
-- **Accurate Predictions**: Leverages deep learning to predict facial expressions with high accuracy.
-- **Easy Integration**: Simple API for integrating with existing applications.
-- **Real-time Analysis**: Capable of processing and analyzing images in real-time.
-- **User-Friendly Interface**: Intuitive web interface for easy interaction.
+- Mines: Predict where mines are and what spots are safe to click.
+- Towers: Predict the safe spots on a towers game
+- Slide: Predict what color the slide will land on
+- Crash: Predict at what point it is safe to cash out on crash.
 
 ## Installation
 
-To use the Awesomeface Predictor, follow these steps:
-
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/yourusername/awesomeface-predictor.git
-    ```
-2. **Navigate to the project directory:**
-    ```bash
-    cd awesomeface-predictor
-    ```
-3. **Install the required dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-## Usage
-
-### Command Line Interface
-
-To predict the facial expression in an image using the command line interface, run:
-
-```bash
-python predict.py --image path_to_your_image.jpg
+Simply download "Awesomeface.js" and import it into a userscript manager (Tampermonkey, Violetmoney, Greasemonkey ect.)
