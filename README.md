@@ -21,4 +21,4 @@ Awesomeface is a simple but effective Bloxflip mines, towers, slide, and crash p
 
 ## Installation
 
-Simply download "Awesomeface.js" and import it into a userscript manager (Tampermonkey, Violetmoney, Greasemonkey ect.)
+Simply download "AwesomeFace.js" and import it into a userscript manager (Tampermonkey, Violetmoney, Greasemonkey ect.)
